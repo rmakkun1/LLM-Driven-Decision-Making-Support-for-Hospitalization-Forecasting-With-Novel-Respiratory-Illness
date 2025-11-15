@@ -1,4 +1,4 @@
-County,Actual_Hospitalizations,LLM_Prediction,LLM_MAE,Moving_Average_Prediction,Moving_Average_MAE,Linear_Trend_Prediction,Linear_Trend_MAE,Last_Value_Prediction,Last_Value_MAE,Best_Method
+County,Actual Hospitalizations,LLM Prediction,LLM MAE,Moving Average Prediction,Moving Average MAE,Linear Trend Prediction,Linear Trend MAE,Last Value Prediction,Last_Value MAE,Best Method
 Bradford,27,37,10,22,5,30,3,23,4,Linear Trend
 Allegheny,190,298,108,225,35,256,66,208,18,Last Value
 Philadelphia,423,621,198,482,59,545,122,476,53,Last Value
