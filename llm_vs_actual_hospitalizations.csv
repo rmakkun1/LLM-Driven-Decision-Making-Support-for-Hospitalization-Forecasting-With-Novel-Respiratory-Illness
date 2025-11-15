@@ -1,0 +1,6 @@
+County,LLM_Predicted,Actual,LLM_Error_Bars,Actual_Error_Bars
+Bradford,37,27,5,3
+Allegheny,298,190,30,15
+Philadelphia,621,423,60,40
+Montgomery,157,197,20,18
+Bucks,183,72,25,8

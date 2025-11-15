@@ -1,0 +1,6 @@
+County,Percent_Error,Error_Bars,Bar_Color
+Bradford,37,5,lightsalmon
+Allegheny,57,8,lightsalmon
+Philadelphia,47,6,lightsalmon
+Montgomery,-20,3,lightgreen
+Bucks,154,15,lightcoral

@@ -1,0 +1,17 @@
+County,Method,MAE,Error_Bars,Actual_Hospitalizations
+Philadelphia,LLM,198,20,423
+Philadelphia,Moving Average,59,8,423
+Philadelphia,Linear Trend,122,15,423
+Philadelphia,Last Value,53,7,423
+Allegheny,LLM,108,15,190
+Allegheny,Moving Average,35,5,190
+Allegheny,Linear Trend,66,10,190
+Allegheny,Last Value,18,3,190
+Bucks,LLM,111,18,72
+Bucks,Moving Average,14,3,72
+Bucks,Linear Trend,25,5,72
+Bucks,Last Value,9,2,72
+Bradford,LLM,10,3,27
+Bradford,Moving Average,5,1,27
+Bradford,Linear Trend,3,1,27
+Bradford,Last Value,4,1,27
