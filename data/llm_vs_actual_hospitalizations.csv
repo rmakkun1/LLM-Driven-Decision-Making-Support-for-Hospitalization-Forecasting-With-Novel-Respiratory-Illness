@@ -1,4 +1,4 @@
-County,LLM_Predicted,Actual,LLM_Error_Bars,Actual_Error_Bars
+County,LLM Predicted,Actual,LLM Error Bars,Actual Error Bars
 Bradford,37,27,5,3
 Allegheny,298,190,30,15
 Philadelphia,621,423,60,40
