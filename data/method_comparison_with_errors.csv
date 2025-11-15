@@ -1,4 +1,4 @@
-County,Method,MAE,Error_Bars,Actual_Hospitalizations
+County,Method,MAE,Error Bars,Actual Hospitalizations
 Philadelphia,LLM,198,20,423
 Philadelphia,Moving Average,59,8,423
 Philadelphia,Linear Trend,122,15,423
